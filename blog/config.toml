@@ -6,6 +6,7 @@ theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
+publishDir = "../docs"
 
 # Enable Disqus
 #disqusShortname = ""
@@ -99,3 +100,4 @@ url = "mailto:m26.kelly@gmail.com"
   weight = 400
   identifier = "contact"
   url = "/contact/"
+

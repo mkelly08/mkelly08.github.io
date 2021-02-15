@@ -1,0 +1,9 @@
+[submodule "blog/themes/pure"]
+	path = blog/themes/pure
+	url = https://github.com/xiaoheiAh/hugo-theme-pure
+[submodule "blog/themes/anatole."]
+	path = blog/themes/anatole.
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
